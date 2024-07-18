@@ -1,0 +1,1 @@
+print("hello windows new depot2")
